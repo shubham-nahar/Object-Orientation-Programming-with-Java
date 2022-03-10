@@ -1,0 +1,9 @@
+
+s
+java:S1450"VRemove the "cloakOn" field and declare it as a local variable in the relevant methods.(¡ì·à8«Õ¯¢÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ý¦–íýÿÿÿÿ8»Õ¯¢÷/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ï×žùþÿÿÿÿ8¿Õ¯¢÷/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ã‹—Æ8ÁÕ¯¢÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×Ê”Üùÿÿÿÿ8ÄÕ¯¢÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑƒÆøùÿÿÿÿ8ÆÕ¯¢÷/
