@@ -1,0 +1,8 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(¼İÅf8—ŞèÈ÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ü³Äşÿÿÿÿ8ìªæÈ÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õÿçÎøÿÿÿÿ8ã”÷È÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ìğÿûÿÿÿÿ8å”÷È÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªí­úÿÿÿÿ8å”÷È÷/
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8è”÷È÷/
